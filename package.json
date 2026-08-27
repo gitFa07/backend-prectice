@@ -2,18 +2,23 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitFa07/backend-prectice.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gitFa07/backend-prectice/issues"
+  },
+  "homepage": "https://github.com/gitFa07/backend-prectice#readme",
   "dependencies": {
-    "cjs": "^0.0.11",
-    "ejs": "^6.0.1",
-    "express": "^5.2.1",
-    "morgan": "^1.11.0"
+    "express": "^5.2.1"
   }
 }
